@@ -265,7 +265,7 @@ body {
 .tech-tag.bg-oop { background: linear-gradient(135deg, #10b981, #059669); }
 .tech-tag.bg-flutter { background: linear-gradient(135deg, #02569b, #0170c6); }
 .tech-tag.bg-dart { background: linear-gradient(135deg, #0170c6, #00bcd4); }
-
+.tech-tag.bg-js{ background: linear-gradient(135deg, #e7e304 ,#e07d04 ); }
 /* Animations */
 @keyframes fadeInUp {
   from {
